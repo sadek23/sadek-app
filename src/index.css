@@ -1,0 +1,9 @@
+.styleHeader{
+  position: absolute;
+  width: 1440px;
+  height: 151px;
+  left: 0px;
+  top: 0px;
+  
+  background: linear-gradient(95.05deg, rgba(252, 188, 188, 0.41) 33.43%, #FF6969 136.75%);
+}
